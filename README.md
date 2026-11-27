@@ -1,3 +1,6 @@
 # 道
 
-[website](@oth3rw4yiswatchingyou)
+![](img/1.png)
+
+
+
